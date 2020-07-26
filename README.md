@@ -4,11 +4,11 @@ In this project, I implemented [SLAM (Simultaneous Localization and Mapping)](ht
 
 All code was written using Jupyter Notebook and was created for Udacity's "Computer Vision" course. The Notebooks are also fully documented with visuals, answers, and descriptions.
 
-1. Robot Moving and Sensing
+### (1) Robot Moving and Sensing
 Define the robot class for moving and sensing its environment.
 
-2. Omega and Xi
+### (2) Omega and Xi
 Create a matrix and a vector (omega and xi, respectively) in order to implement SLAM.
 
-2. Landmark Detection and Tracking
+### (3) Landmark Detection and Tracking
 Bring everything together by creating test environments, updating Omega and Xi using motion and measurement data, and create a 2D map of the environment.
